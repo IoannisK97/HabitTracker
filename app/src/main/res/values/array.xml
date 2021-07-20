@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_type_options">
+        <item>Sport</item>
+        <item>Social</item>
+        <item>Religion</item>
+        <item>Academic</item>
+        <item>Other</item>
+    </string-array>
+</resources>
